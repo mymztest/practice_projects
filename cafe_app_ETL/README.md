@@ -1,7 +1,7 @@
 
-## Some of the functions like s3 and awsredshift, grafana cannot be visualise
 
-## implemented a simple etl flow for the purpose to show my work without including S3, AWS and redshift.
+# implemented a simple etl flow for the purpose to show my work without including S3, AWS and redshift.
+
 
 # Coffee Shop ETL Pipeline
 
