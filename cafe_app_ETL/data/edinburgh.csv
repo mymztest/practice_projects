@@ -1,0 +1,4 @@
+datetime,city,customer_name,items,total_price,payment_method,card_no
+21/04/2024 09:00,Edinburgh,Jesse Franco,"Regular Flavoured iced latte - Hazelnut - 2.75, Large Speciality Tea - Green - 1.60",4.35,CASH,null
+21/04/2024 09:01,Edinburgh,Rose Jackson,"Large Speciality Tea - Green - 1.60, Regular Smoothies - Glowing Greens - 2.00",3.6,CARD,8032985528327355
+21/04/2024 09:09,Edinburgh,Gladys Vandenbosch,"Regular Americano - 1.95",1.95,CARD,5179414407798244

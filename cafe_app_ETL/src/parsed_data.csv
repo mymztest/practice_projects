@@ -1,0 +1,6 @@
+datetime,city,customer_name,item,variant,size,price,total_price,payment_method,card_no
+2024-04-21 09:00:00,Edinburgh,Jesse Franco,Flavoured iced latte,Hazelnut,Regular,2.75,4.35,CASH,
+2024-04-21 09:00:00,Edinburgh,Jesse Franco,Speciality Tea,Green,Large,1.6,4.35,CASH,
+2024-04-21 09:01:00,Edinburgh,Rose Jackson,Speciality Tea,Green,Large,1.6,3.6,CARD,8032985528327355.0
+2024-04-21 09:01:00,Edinburgh,Rose Jackson,Smoothies,Glowing Greens,Regular,2.0,3.6,CARD,8032985528327355.0
+2024-04-21 09:09:00,Edinburgh,Gladys Vandenbosch,Americano,None,Regular,1.95,1.95,CARD,5179414407798244.0
