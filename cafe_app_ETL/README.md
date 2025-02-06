@@ -1,13 +1,13 @@
 
 
-# implemented a simple etl flow for the purpose to show my work without including S3, AWS and redshift.
-
-
 # Coffee Shop ETL Pipeline
 
 This project implements an end-to-end Extract, Transform, Load (ETL) pipeline for a coffee shop chain with multiple branches across the country (UK). The goal of this project is to centralize and analyze transactional data from all branches, enabling business insights through a scalable and efficient solution.
 
 ---
+
+## implemented a simple etl flow for the purpose to show my work without including S3, AWS and redshift.
+
 
 ## **Project Overview**
 
