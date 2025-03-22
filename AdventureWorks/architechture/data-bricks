@@ -1,0 +1,79 @@
+{
+    "properties": {
+        "managedResourceGroupId": "/subscriptions/<subscriptionsid>/resourceGroups/managed-db-adw-project",
+        "parameters": {
+            "enableFedRampCertification": {
+                "type": "Bool",
+                "value": false
+            },
+            "enableNoPublicIp": {
+                "type": "Bool",
+                "value": false
+            },
+            "natGatewayName": {
+                "type": "String",
+                "value": "nat-gateway"
+            },
+            "prepareEncryption": {
+                "type": "Bool",
+                "value": false
+            },
+            "publicIpName": {
+                "type": "String",
+                "value": "nat-gw-public-ip"
+            },
+            "requireInfrastructureEncryption": {
+                "type": "Bool",
+                "value": false
+            },
+            "resourceTags": {
+                "type": "Object",
+                "value": {
+                    "application": "databricks",
+                    "databricks-environment": "true"
+                }
+            },
+            "storageAccountName": {
+                "type": "String",
+                "value": "dbstorageye6ktlb4otsdi"
+            },
+            "storageAccountSkuName": {
+                "type": "String",
+                "value": "Standard_GRS"
+            },
+            "vnetAddressPrefix": {
+                "type": "String",
+                "value": "10.139"
+            }
+        },
+        "provisioningState": "Succeeded",
+        "authorizations": [
+            {
+                "principalId": "<principalId",
+                "roleDefinitionId": "<roleDefinitionId>"
+            }
+        ],
+        "createdBy": {
+            "oid": "<oid>",
+            "puid": "<puid>",
+            "applicationId": "<applicationId>"
+        },
+        "updatedBy": {
+           "oid": "<oid>",
+            "puid": "<puid>",
+            "applicationId": "<applicationId>"
+        },
+        "workspaceId": "<id>",
+        "workspaceUrl": "<id>",
+        "createdDateTime": "<id>"
+    },
+    "id": "/subscriptions/<id>/resourceGroups/ADWPROJECT/providers/Microsoft.Databricks/workspaces/databricks-adw-project",
+    "name": "databricks-adw-project",
+    "type": "Microsoft.Databricks/workspaces",
+    "sku": {
+        "name": "standard"
+    },
+    "location": "uksouth",
+    "tags": {},
+    "apiVersion": "2018-04-01"
+}

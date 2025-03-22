@@ -1,0 +1,26 @@
+{
+    "name": "df-adw-project",
+    "id": "/subscriptions/id/resourceGroups/adwproject/providers/Microsoft.DataFactory/factories/df-adw-project",
+    "type": "Microsoft.DataFactory/factories",
+    "properties": {
+        "provisioningState": "Succeeded",
+        "createTime": "2025-03-14T11:45:58.3411071Z",
+        "version": "2018-06-01",
+        "factoryStatistics": {
+            "totalResourceCount": 0,
+            "maxAllowedResourceCount": 0,
+            "factorySizeInGbUnits": 0,
+            "maxAllowedFactorySizeInGbUnits": 0
+        },
+        "publicNetworkAccess": "Enabled"
+    },
+    "eTag": "\"etag\"",
+    "location": "uksouth",
+    "identity": {
+        "type": "SystemAssigned",
+        "principalId": "principalId",
+        "tenantId": "tenantId"
+    },
+    "tags": {},
+    "apiVersion": "2018-06-01"
+}

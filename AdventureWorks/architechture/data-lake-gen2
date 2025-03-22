@@ -1,0 +1,66 @@
+{
+    "sku": {
+        "name": "Standard_LRS",
+        "tier": "Standard"
+    },
+    "kind": "StorageV2",
+    "id": "/subscriptions/<id>/resourceGroups/ADWPROJECT/providers/Microsoft.Storage/storageAccounts/adwstorage1datalake",
+    "name": "adwstorage1datalake",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "uksouth",
+    "tags": {},
+    "properties": {
+        "dnsEndpointType": "Standard",
+        "defaultToOAuthAuthentication": false,
+        "publicNetworkAccess": "Enabled",
+        "keyCreationTime": {
+            "key1": "2025-03-14T11:39:34.2974752Z",
+            "key2": "2025-03-14T11:39:34.2974752Z"
+        },
+        "allowCrossTenantReplication": false,
+        "privateEndpointConnections": [],
+        "isSftpEnabled": false,
+        "minimumTlsVersion": "TLS1_2",
+        "allowBlobPublicAccess": false,
+        "allowSharedKeyAccess": true,
+        "largeFileSharesState": "Enabled",
+        "isHnsEnabled": true,
+        "networkAcls": {
+            "bypass": "AzureServices",
+            "virtualNetworkRules": [],
+            "ipRules": [],
+            "defaultAction": "Allow"
+        },
+        "supportsHttpsTrafficOnly": true,
+        "encryption": {
+            "requireInfrastructureEncryption": false,
+            "services": {
+                "file": {
+                    "keyType": "Account",
+                    "enabled": true,
+                    "lastEnabledTime": "2025-03-14T11:39:34.3130905Z"
+                },
+                "blob": {
+                    "keyType": "Account",
+                    "enabled": true,
+                    "lastEnabledTime": "2025-03-14T11:39:34.3130905Z"
+                }
+            },
+            "keySource": "Microsoft.Storage"
+        },
+        "accessTier": "Hot",
+        "provisioningState": "Succeeded",
+        "creationTime": "2025-03-14T11:39:34.1880934Z",
+        "primaryEndpoints": {
+            "dfs": "dfs/",
+            "web": "https://web/",
+            "blob": "https://blob/",
+            "queue": "https://queue/",
+            "table": "https://table/",
+            "file": "https://file/"
+        },
+        "primaryLocation": "uksouth",
+        "statusOfPrimary": "available"
+    },
+    "apiVersion": "2022-05-01"
+}
