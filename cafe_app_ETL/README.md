@@ -72,3 +72,6 @@ This project builds a robust ETL pipeline to:
 
 5. **SQL database entry:**
 ![alt text](image.png)
+
+6. **Power BI Report:**
+![alt text](image-1.png)
