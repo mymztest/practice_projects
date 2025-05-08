@@ -6,7 +6,7 @@ This project uses an e-commerce dataset. The dataset includes transactional data
 ## Phase 1: Data Exploration and Quality Check
 Read data from csv file
 
-# Identify Data Issues: 
+## Identify Data Issues: 
 1. Schema – Datatypes have been checked
 2. There are nulls or missing values for Amount, Courier Status, promotion-ids, fulfilled-by, Unnamed: 22
 3. Some columns are not required that can be dropped - 'Unnamed: 22', 'fulfilled-by', 'ship-country', 'currency’
