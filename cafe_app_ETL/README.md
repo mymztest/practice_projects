@@ -6,7 +6,7 @@ This project implements an end-to-end Extract, Transform, Load (ETL) pipeline fo
 
 ---
 
-## implemented a simple etl flow for the purpose to show my work without including S3, AWS and redshift.
+## implemented a simple etl flow.
 
 
 ## **Project Overview**
